@@ -1,2 +1,3 @@
-npm start
-npx expo start
+COMO CORRER EL PROYECTO
+=======================
+npm run android
